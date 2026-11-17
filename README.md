@@ -1,22 +1,22 @@
 <div id="top" align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg?v=3" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg?v=5" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=760&lines=Decoding+raw+NASA+SPHEREx+FITS+tables+into+infrared+sky+maps;Building+offline-first+Flutter+apps+with+Protobuf+%26+WebP;Designing+zero-code+TTL%2FCMOS+clocks+%26+ESP32+autonomous+rovers;Visualizing+8+KB+slotted+SQL+pages+%26+async+multi-LLM+brokers" alt="Animated Typing Taglines" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E3B459&center=true&vCenter=true&width=760&lines=Decoding+raw+NASA+SPHEREx+FITS+tables+into+infrared+sky+maps;Building+offline-first+Flutter+apps+with+Protobuf+%26+WebP;Designing+zero-code+TTL%2FCMOS+clocks+%26+ESP32+autonomous+rovers;Visualizing+8+KB+slotted+SQL+pages+%26+async+multi-LLM+brokers" alt="Animated Typing Taglines" />
   </a>
 </p>
 
 <p align="center">
   <a href="#-versão-em-português-pt-br">
-    <img src="https://img.shields.io/badge/Idioma-Ler_em_Português_(PT--BR)-10B981?style=for-the-badge" alt="Ler em Português" />
+    <img src="https://img.shields.io/badge/Idioma-Ler_em_Português_(PT--BR)-D4A349?style=for-the-badge&labelColor=1F1914" alt="Ler em Português" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-utsch-205745350/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Utsch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lattes.cnpq.br/6586009344434295">
-    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes" />
+    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-E0824D?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1F1914" alt="Currículo Lattes" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Live_Demo-SQL_Under_the_Hood-3B82F6?style=flat-square&logo=typescript&logoColor=white" alt="SQL Under the Hood" />
   </a>
   <a href="https://armageddon-vox.pages.dev/">
-    <img src="https://img.shields.io/badge/Live_Demo-Armageddon_Vox-F59E0B?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Armageddon Vox" />
+    <img src="https://img.shields.io/badge/Live_Demo-Armageddon_Vox-E3B459?style=flat-square&logo=cloudflarepages&logoColor=1F1914" alt="Armageddon Vox" />
   </a>
 </p>
 
@@ -59,9 +59,9 @@
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>3-Tier Web Suite & Async Multi-Channel AI Broker</strong></p>
-      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>.</p>
+      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>[cite: 19].</p>
       <p>
-        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
+        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-d4a349?style=flat-square&logo=javascript&logoColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -69,7 +69,7 @@
       <p><strong>Lead Frontend Developer • Production Mobile App</strong></p>
       <p>Offline-first climbing guide built with <strong>Flutter/Dart</strong> & <strong>Supabase</strong> (published on App Store & Google Play). Replaced text/YAML payloads with <strong>Protocol Buffers</strong> and <strong>WebP</strong> compression—handling 246+ active climbers and 5,100+ offline route lookups at Festival Igarameca with zero errors.</p>
       <p>
-        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/View_Code-aresta--climb%2Faresta__app-10b981?style=flat-square&logo=flutter&logoColor=white" /></a>
+        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/View_Code-aresta--climb%2Faresta__app-e0824d?style=flat-square&logo=flutter&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -132,7 +132,7 @@
 ### 📊 Live GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoutsch&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=38BDF8&currStreakLabel=6EE7B7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoutsch&theme=tokyonight&hide_border=true&background=171310&ring=D4A349&fire=E0824D&currStreakLabel=F3D08A&sideLabels=CBB99D&dates=9E6D24&stroke=6E532E" alt="GitHub Streak" />
 </p>
 
 ---
@@ -142,7 +142,7 @@
 
 <p align="right">
   <a href="#top">
-    <img src="https://img.shields.io/badge/Language-Back_to_English_↑-38BDF8?style=flat-square" alt="Back to English" />
+    <img src="https://img.shields.io/badge/Language-Back_to_English_↑-D4A349?style=flat-square&labelColor=1F1914" alt="Back to English" />
   </a>
 </p>
 
@@ -177,9 +177,9 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>Suíte Web em 3 Camadas & Broker Assíncrono de IA Multi-Canal</strong></p>
-      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>.</p>
+      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>[cite: 19].</p>
       <p>
-        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
+        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-d4a349?style=flat-square&logo=javascript&logoColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -187,7 +187,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p><strong>Lead Desenvolvedor Frontend • App Mobile em Produção</strong></p>
       <p>Guia de escalada offline-first desenvolvido em <strong>Flutter/Dart</strong> e <strong>Supabase</strong> (publicado na App Store e Google Play). Implementei serialização binária com <strong>Protocol Buffers</strong> e compressão <strong>WebP</strong> — atendendo +246 escaladores ativos e 5.192 vias consultadas offline no Festival Igarameca sem erros.</p>
       <p>
-        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-10b981?style=flat-square&logo=flutter&logoColor=white" /></a>
+        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-e0824d?style=flat-square&logo=flutter&logoColor=white" /></a>
       </p>
     </td>
   </tr>
