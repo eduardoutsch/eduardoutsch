@@ -1,48 +1,41 @@
-<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="230" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#05080f" />
       <stop offset="50%" stop-color="#0a1324" />
       <stop offset="100%" stop-color="#061614" />
     </linearGradient>
 
-    <linearGradient id="accentLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#10b981" stop-opacity="0" />
       <stop offset="30%" stop-color="#10b981" stop-opacity="0.95" />
       <stop offset="70%" stop-color="#38bdf8" stop-opacity="0.95" />
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="titleGrad" x1="46" y1="70" x2="540" y2="120" gradientUnits="userSpaceOnUse">
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f8fafc" />
       <stop offset="55%" stop-color="#6ee7b7" />
       <stop offset="100%" stop-color="#38bdf8" />
     </linearGradient>
 
-    <radialGradient id="glowOrb" cx="0.78" cy="0.45" r="0.45">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.24" />
-      <stop offset="60%" stop-color="#0ea5e9" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#05080f" stop-opacity="0" />
-    </radialGradient>
-
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#10b981" stroke-opacity="0.08" stroke-width="1" />
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#10b981" stroke-opacity="0.09" stroke-width="1" />
     </pattern>
   </defs>
 
   <rect width="900" height="230" rx="14" fill="url(#bgGrad)" />
   <rect width="900" height="230" rx="14" fill="url(#grid)" />
-  <rect width="900" height="230" rx="14" fill="url(#glowOrb)" />
 
-  <rect x="-180" y="0" width="180" height="230" fill="url(#accentLine)" opacity="0.14">
+  <rect x="-180" y="0" width="180" height="230" fill="url(#accentLine)" opacity="0.16">
     <animate attributeName="x" from="-180" to="920" dur="5s" repeatCount="indefinite" />
   </rect>
 
-  <rect x="1" y="1" width="898" height="228" rx="13" stroke="#1e293b" stroke-width="1.5" />
-  <rect x="0" y="0" width="900" height="2.5" fill="url(#accentLine)" />
-  <rect x="0" y="227.5" width="900" height="2.5" fill="url(#accentLine)" />
+  <rect x="1" y="1" width="898" height="228" rx="13" fill="none" stroke="#1e293b" stroke-width="1.5" />
+  <rect x="0" y="0" width="900" height="3" fill="url(#accentLine)" />
+  <rect x="0" y="227" width="900" height="3" fill="url(#accentLine)" />
 
-  <g stroke="#10b981" stroke-opacity="0.4" stroke-width="1.5" fill="none" stroke-dasharray="8 6">
+  <g stroke="#10b981" stroke-opacity="0.45" stroke-width="1.5" fill="none" stroke-dasharray="8 6">
     <path d="M 610 45 H 705 L 730 70 H 845">
       <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="14s" repeatCount="indefinite" />
     </path>
@@ -64,25 +57,21 @@
     <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite" />
   </circle>
 
-  <g transform="translate(46, 36)">
-    <rect x="0" y="0" width="302" height="26" rx="13" fill="#06281e" stroke="#10b981" stroke-opacity="0.6" />
-    <circle cx="16" cy="13" r="4.5" fill="#10b981">
-      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <text x="30" y="17" font-family="Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1" fill="#6ee7b7">PUC MINAS // COMPUTER ENGINEERING</text>
-  </g>
+  <rect x="46" y="36" width="302" height="26" rx="13" fill="#06281e" stroke="#10b981" stroke-opacity="0.6" />
+  <circle cx="62" cy="49" r="4.5" fill="#10b981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="76" y="53" font-family="monospace" font-size="11.5" font-weight="bold" fill="#6ee7b7">PUC MINAS // COMPUTER ENGINEERING</text>
 
-  <text x="46" y="106" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="36" fill="url(#titleGrad)">Eduardo Utsch Goncalves</text>
-  <text x="48" y="136" font-family="Consolas, monospace" font-weight="600" font-size="13.5" letter-spacing="1.4" fill="#94a3b8">SILICON & DISCRETE LOGIC  //  OFFLINE-FIRST MOBILE  //  AI & SYSTEMS</text>
+  <text x="46" y="106" font-family="sans-serif" font-weight="bold" font-size="36" fill="url(#titleGrad)">Eduardo Utsch Goncalves</text>
+  <text x="48" y="136" font-family="monospace" font-weight="bold" font-size="13.5" fill="#94a3b8">SILICON & DISCRETE LOGIC  //  OFFLINE-FIRST MOBILE  //  AI & SYSTEMS</text>
 
-  <g transform="translate(46, 166)">
-    <rect x="0" y="0" width="176" height="28" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.5" />
-    <text x="16" y="18" font-family="Consolas, monospace" font-size="11.5" font-weight="700" fill="#7dd3fc">[+] ESP32 & LOGIC</text>
+  <rect x="46" y="166" width="176" height="28" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.5" />
+  <text x="62" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#7dd3fc">[+] ESP32 & LOGIC</text>
 
-    <rect x="188" y="0" width="184" height="28" rx="6" fill="#0f172a" stroke="#10b981" stroke-opacity="0.5" />
-    <text x="204" y="18" font-family="Consolas, monospace" font-size="11.5" font-weight="700" fill="#6ee7b7">[+] FLUTTER & PROTO</text>
+  <rect x="234" y="166" width="184" height="28" rx="6" fill="#0f172a" stroke="#10b981" stroke-opacity="0.5" />
+  <text x="250" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#6ee7b7">[+] FLUTTER & PROTO</text>
 
-    <rect x="384" y="0" width="194" height="28" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.5" />
-    <text x="400" y="18" font-family="Consolas, monospace" font-size="11.5" font-weight="700" fill="#fcd34d">[+] SQL & AI AGENTS</text>
-  </g>
+  <rect x="430" y="166" width="194" height="28" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.5" />
+  <text x="446" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#fcd34d">[+] SQL & AI AGENTS</text>
 </svg>
