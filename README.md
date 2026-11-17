@@ -12,7 +12,7 @@
   <a href="#-versão-em-português-pt-br">
     <img src="https://img.shields.io/badge/Idioma-Ler_em_Português_(PT--BR)-D4A349?style=for-the-badge&labelColor=1F1914" alt="Ler em Português" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-utsch-205745350/">
+  <a href="https://www.linkedin.com/in/eduardo-utsch/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Utsch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1914" alt="LinkedIn" />
   </a>
   <a href="https://lattes.cnpq.br/6586009344434295">
