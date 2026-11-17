@@ -67,7 +67,7 @@
     <td width="50%" valign="top">
       <h3>🧗 <a href="https://github.com/aresta-climb/aresta_app">Aresta Climb</a></h3>
       <p><strong>Lead Frontend Developer • Production Mobile App</strong></p>
-      <p>Offline-first climbing guide built with <strong>Flutter/Dart</strong> & <strong>Supabase</strong> (published on App Store & Google Play). Replaced text/YAML payloads with <strong>Protocol Buffers</strong> and <strong>WebP</strong> compression—handling 246+ active climbers and 5,100+ offline route lookups at Festival Igarameca with zero errors.</p>
+      <p>Offline-first climbing guide built with <strong>Flutter/Dart</strong> & <strong>Supabase</strong> (published on App Store & Google Play). Replaced text/YAML payloads with <strong>Protocol Buffers</strong> and <strong>WebP</strong> compression—handling 246+ active climbers and 5,100+ offline route lookups at Festival Igarameca.</p>
       <p>
         <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/View_Code-aresta--climb%2Faresta__app-10B981?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
       </p>
