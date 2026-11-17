@@ -1,77 +1,189 @@
 <svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05080f" />
-      <stop offset="50%" stop-color="#0a1324" />
-      <stop offset="100%" stop-color="#061614" />
+    <!-- Oiled Iron & Aged Parchment-Slate Base -->
+    <linearGradient id="ironPlate" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171310" />
+      <stop offset="55%" stop-color="#1f1914" />
+      <stop offset="100%" stop-color="#120e0b" />
     </linearGradient>
 
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0" />
-      <stop offset="30%" stop-color="#10b981" stop-opacity="0.95" />
-      <stop offset="70%" stop-color="#38bdf8" stop-opacity="0.95" />
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    <!-- Tarnished Brass Frame Gradient -->
+    <linearGradient id="brassTrim" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#78552b" />
+      <stop offset="25%" stop-color="#d4a349" />
+      <stop offset="50%" stop-color="#f3d08a" />
+      <stop offset="75%" stop-color="#b88435" />
+      <stop offset="100%" stop-color="#6b4a23" />
     </linearGradient>
 
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f8fafc" />
-      <stop offset="55%" stop-color="#6ee7b7" />
-      <stop offset="100%" stop-color="#38bdf8" />
+    <!-- Copper & Steam Glow -->
+    <linearGradient id="copperPipe" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9a4e2a" />
+      <stop offset="50%" stop-color="#e0824d" />
+      <stop offset="100%" stop-color="#6e3419" />
     </linearGradient>
 
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#10b981" stroke-opacity="0.09" stroke-width="1" />
+    <!-- Engraved Gold Typography -->
+    <linearGradient id="engravedGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff4d4" />
+      <stop offset="48%" stop-color="#e3b459" />
+      <stop offset="100%" stop-color="#9e6d24" />
+    </linearGradient>
+
+    <!-- Drafting Crosshatch Grid -->
+    <pattern id="draftGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#d4a349" stroke-opacity="0.06" stroke-width="1" />
+      <circle cx="0" cy="0" r="1" fill="#d4a349" fill-opacity="0.14" />
     </pattern>
   </defs>
 
-  <rect width="900" height="230" rx="14" fill="url(#bgGrad)" />
-  <rect width="900" height="230" rx="14" fill="url(#grid)" />
+  <!-- Outer Cast-Iron Plate -->
+  <rect width="900" height="230" rx="12" fill="url(#ironPlate)" />
+  <rect width="900" height="230" rx="12" fill="url(#draftGrid)" />
 
-  <rect x="-180" y="0" width="180" height="230" fill="url(#accentLine)" opacity="0.16">
-    <animate attributeName="x" from="-180" to="920" dur="5s" repeatCount="indefinite" />
-  </rect>
+  <!-- Double Brass Bezel & Corner Rivets -->
+  <rect x="4" y="4" width="892" height="222" rx="9" fill="none" stroke="url(#brassTrim)" stroke-width="2.5" />
+  <rect x="11" y="11" width="878" height="208" rx="6" fill="none" stroke="#6e532e" stroke-width="1" stroke-dasharray="6 4" />
 
-  <rect x="1" y="1" width="898" height="228" rx="13" fill="none" stroke="#1e293b" stroke-width="1.5" />
-  <rect x="0" y="0" width="900" height="3" fill="url(#accentLine)" />
-  <rect x="0" y="227" width="900" height="3" fill="url(#accentLine)" />
+  <!-- Corner Brass Rivets -->
+  <circle cx="22" cy="22" r="4.5" fill="#d4a349" stroke="#3b2810" stroke-width="1.5" />
+  <circle cx="878" cy="22" r="4.5" fill="#d4a349" stroke="#3b2810" stroke-width="1.5" />
+  <circle cx="22" cy="208" r="4.5" fill="#d4a349" stroke="#3b2810" stroke-width="1.5" />
+  <circle cx="878" cy="208" r="4.5" fill="#d4a349" stroke="#3b2810" stroke-width="1.5" />
 
-  <g stroke="#10b981" stroke-opacity="0.45" stroke-width="1.5" fill="none" stroke-dasharray="8 6">
-    <path d="M 610 45 H 705 L 730 70 H 845">
-      <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="14s" repeatCount="indefinite" />
-    </path>
-    <path d="M 635 115 H 740 L 760 95 H 860">
-      <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="11s" repeatCount="indefinite" />
-    </path>
-    <path d="M 600 185 H 715 L 745 155 H 845">
-      <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="16s" repeatCount="indefinite" />
-    </path>
+  <!-- Copper Steam Conduit Pipes Along Top & Bottom -->
+  <rect x="42" y="17" width="520" height="5" rx="2.5" fill="url(#copperPipe)" opacity="0.75" />
+  <rect x="42" y="208" width="520" height="5" rx="2.5" fill="url(#copperPipe)" opacity="0.75" />
+  <!-- Pipe Collar Rings -->
+  <rect x="130" y="15" width="8" height="9" rx="1.5" fill="#d4a349" />
+  <rect x="370" y="15" width="8" height="9" rx="1.5" fill="#d4a349" />
+  <rect x="210" y="206" width="8" height="9" rx="1.5" fill="#d4a349" />
+  <rect x="450" y="206" width="8" height="9" rx="1.5" fill="#d4a349" />
+
+  <!-- ===================================================================== -->
+  <!-- RIGHT SIDE: INTERLOCKING CLOCKWORK GEAR TRAIN & ESCAPEMENT            -->
+  <!-- ===================================================================== -->
+
+  <!-- Large Main Brass Gear (Center: 745, 115) -->
+  <g transform="translate(745, 115)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite" />
+      <!-- 12 Gear Teeth -->
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(30)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(60)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(90)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(120)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(150)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(180)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(210)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(240)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(270)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(300)" />
+      <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(330)" />
+      <!-- Outer Rim & Spokes -->
+      <circle cx="0" cy="0" r="64" fill="#171310" stroke="#d4a349" stroke-width="8" />
+      <circle cx="0" cy="0" r="52" fill="none" stroke="#78552b" stroke-width="1.5" />
+      <line x1="-56" y1="0" x2="56" y2="0" stroke="#d4a349" stroke-width="5" />
+      <line x1="0" y1="-56" x2="0" y2="56" stroke="#d4a349" stroke-width="5" />
+      <line x1="-40" y1="-40" x2="40" y2="40" stroke="#b88435" stroke-width="3.5" />
+      <line x1="-40" y1="40" x2="40" y2="-40" stroke="#b88435" stroke-width="3.5" />
+      <!-- Center Hub -->
+      <circle cx="0" cy="0" r="16" fill="#292018" stroke="#f3d08a" stroke-width="3" />
+      <circle cx="0" cy="0" r="6" fill="#e0824d" />
+    </g>
   </g>
 
-  <circle cx="845" cy="70" r="4.5" fill="#10b981">
-    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite" />
+  <!-- Secondary Copper Pinion Gear (Meshed Upper-Left: 642, 62) -->
+  <g transform="translate(642, 62)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(45)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(90)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(135)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(180)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(225)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(270)" />
+      <rect x="-5" y="-44" width="10" height="12" rx="1.5" fill="#c96b38" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="35" fill="#171310" stroke="#e0824d" stroke-width="6" />
+      <line x1="-30" y1="0" x2="30" y2="0" stroke="#e0824d" stroke-width="3.5" />
+      <line x1="0" y1="-30" x2="0" y2="30" stroke="#e0824d" stroke-width="3.5" />
+      <circle cx="0" cy="0" r="10" fill="#292018" stroke="#f3d08a" stroke-width="2" />
+      <circle cx="0" cy="0" r="3.5" fill="#d4a349" />
+    </g>
+  </g>
+
+  <!-- Tertiary Escapement Wheel (Lower-Left: 638, 168) -->
+  <g transform="translate(638, 168)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(45)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(90)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(135)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(180)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(225)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(270)" />
+      <rect x="-4" y="-36" width="8" height="10" rx="1" fill="#a87c32" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="28" fill="#171310" stroke="#d4a349" stroke-width="5" />
+      <line x1="-22" y1="-22" x2="22" y2="22" stroke="#d4a349" stroke-width="3" />
+      <line x1="-22" y1="22" x2="22" y2="-22" stroke="#d4a349" stroke-width="3" />
+      <circle cx="0" cy="0" r="8" fill="#292018" stroke="#e0824d" stroke-width="2" />
+    </g>
+  </g>
+
+  <!-- Analog Pressure / Chronometer Dial (Far Right: 838, 172) -->
+  <g transform="translate(838, 172)">
+    <circle cx="0" cy="0" r="24" fill="#120e0b" stroke="#d4a349" stroke-width="3" />
+    <circle cx="0" cy="0" r="19" fill="#fdf6e3" />
+    <line x1="0" y1="-17" x2="0" y2="-13" stroke="#1f1914" stroke-width="1.5" />
+    <line x1="17" y1="0" x2="13" y2="0" stroke="#1f1914" stroke-width="1.5" />
+    <line x1="-17" y1="0" x2="-13" y2="0" stroke="#1f1914" stroke-width="1.5" />
+    <line x1="12" y1="-12" x2="9" y2="-9" stroke="#b91c1c" stroke-width="1.5" />
+    <!-- Sweeping Gauge Needle -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-45;55;20;65;-45" dur="7s" repeatCount="indefinite" />
+      <line x1="0" y1="3" x2="0" y2="-15" stroke="#b91c1c" stroke-width="2" stroke-linecap="round" />
+    </g>
+    <circle cx="0" cy="0" r="3" fill="#3b2810" />
+  </g>
+
+  <!-- ===================================================================== -->
+  <!-- LEFT SIDE: ENGRAVED NAMEPLATE & BRASS SPECIFICATION TAGS              -->
+  <!-- ===================================================================== -->
+
+  <!-- Engraved Brass Top Plaque -->
+  <rect x="44" y="34" width="320" height="24" rx="4" fill="#261e16" stroke="#b88435" stroke-width="1.2" />
+  <circle cx="57" cy="46" r="3.5" fill="#e0824d">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
   </circle>
-  <circle cx="860" cy="95" r="4.5" fill="#38bdf8">
-    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="845" cy="155" r="4.5" fill="#10b981">
-    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite" />
-  </circle>
+  <text x="70" y="50" font-family="Georgia, serif" font-size="11" font-weight="bold" fill="#e3b459">PUC MINAS  •  COMPUTER ENGINEERING</text>
 
-  <rect x="46" y="36" width="302" height="26" rx="13" fill="#06281e" stroke="#10b981" stroke-opacity="0.6" />
-  <circle cx="62" cy="49" r="4.5" fill="#10b981">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <text x="76" y="53" font-family="monospace" font-size="11.5" font-weight="bold" fill="#6ee7b7">PUC MINAS // COMPUTER ENGINEERING</text>
+  <!-- Main Engraved Title: Eduardo Utsch -->
+  <text x="44" y="106" font-family="Georgia, serif" font-weight="bold" font-size="44" fill="url(#engravedGold)">Eduardo Utsch</text>
 
-  <text x="46" y="106" font-family="sans-serif" font-weight="bold" font-size="36" fill="url(#titleGrad)">Eduardo Utsch Goncalves</text>
-  <text x="48" y="136" font-family="monospace" font-weight="bold" font-size="13.5" fill="#94a3b8">SILICON & DISCRETE LOGIC  //  OFFLINE-FIRST MOBILE  //  AI & SYSTEMS</text>
+  <!-- Divider Rule with Diamond Centerpiece -->
+  <line x1="44" y1="121" x2="275" y2="121" stroke="#b88435" stroke-width="1.2" />
+  <polygon points="285,116 291,121 285,126 279,121" fill="#e0824d" />
+  <line x1="295" y1="121" x2="545" y2="121" stroke="#b88435" stroke-width="1.2" />
 
-  <rect x="46" y="166" width="176" height="28" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.5" />
-  <text x="62" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#7dd3fc">[+] ESP32 & LOGIC</text>
+  <!-- Engraved Subtitle -->
+  <text x="46" y="144" font-family="Courier New, monospace" font-weight="bold" font-size="13" fill="#cbb99d">CLOCKWORK LOGIC  •  EMBEDDED ROBOTS  •  SYSTEMS ARCHITECTURE</text>
 
-  <rect x="234" y="166" width="184" height="28" rx="6" fill="#0f172a" stroke="#10b981" stroke-opacity="0.5" />
-  <text x="250" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#6ee7b7">[+] FLUTTER & PROTO</text>
+  <!-- Brass Riveted Spec Plates -->
+  <rect x="44" y="163" width="164" height="28" rx="4" fill="#241c15" stroke="#d4a349" stroke-width="1.2" />
+  <circle cx="52" cy="177" r="2" fill="#d4a349" />
+  <circle cx="200" cy="177" r="2" fill="#d4a349" />
+  <text x="61" y="181" font-family="Courier New, monospace" font-size="11.5" font-weight="bold" fill="#f3d08a">TTL LOGIC + ESP32</text>
 
-  <rect x="430" y="166" width="194" height="28" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.5" />
-  <text x="446" y="184" font-family="monospace" font-size="11.5" font-weight="bold" fill="#fcd34d">[+] SQL & AI AGENTS</text>
+  <rect x="218" y="163" width="166" height="28" rx="4" fill="#241c15" stroke="#e0824d" stroke-width="1.2" />
+  <circle cx="226" cy="177" r="2" fill="#e0824d" />
+  <circle cx="376" cy="177" r="2" fill="#e0824d" />
+  <text x="235" y="181" font-family="Courier New, monospace" font-size="11.5" font-weight="bold" fill="#f5b895">FLUTTER + PROTOBUF</text>
+
+  <rect x="394" y="163" width="166" height="28" rx="4" fill="#241c15" stroke="#b88435" stroke-width="1.2" />
+  <circle cx="402" cy="177" r="2" fill="#b88435" />
+  <circle cx="552" cy="177" r="2" fill="#b88435" />
+  <text x="411" y="181" font-family="Courier New, monospace" font-size="11.5" font-weight="bold" fill="#e3b459">SQL + AI BROKERS</text>
 </svg>
