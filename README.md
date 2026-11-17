@@ -85,7 +85,7 @@
   <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
-### ⚡ Embedded Systems, Robotics & Pure Digital Logic
+### ⚡ Embedded Systems, Robotics & Digital Logic
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>⏱️ 24-Hour Hardware Digital Clock</h4>
-      <p>6-digit (<code>HH:MM:SS</code>) breadboard clock that counts and rolls over cleanly (<code>23:59:59 → 00:00:00</code>) using <strong>purely discrete TTL/CMOS counters, BCD-to-7-segment decoders, and combinational reset logic</strong>—zero microcontroller or software.</p>
+      <p>6-digit (<code>HH:MM:SS</code>) breadboard clock that counts and rolls over cleanly (<code>23:59:59 → 00:00:00</code>) using <strong>discrete TTL/CMOS counters, BCD-to-7-segment decoders, and combinational reset logic</strong>—zero microcontroller or software.</p>
     </td>
   </tr>
   <tr>
@@ -175,7 +175,7 @@ Curioso sobre como as coisas funcionam por baixo dos panos: decodificação bin�
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>Suíte Web em 3 Camadas & Broker Assíncrono de IA Multi-Canal</strong></p>
-      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>.</p>
+      <p>Simulador tático em <strong>JavaScript</strong> integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>.</p>
       <p>
         <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-E0824D?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=171310" /></a>
       </p>
