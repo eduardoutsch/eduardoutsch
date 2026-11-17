@@ -5,7 +5,7 @@ const TOKEN = process.env.GITHUB_TOKEN;
 
 async function fetchMonthlyContributions() {
   const now = new Date();
-  const from = new Date(Date.UTC(now.getUTCFullYear() - 1, now.getUTCMonth(), 1));
+  const from = new Date(Date.UTC(now.getUTCFullYear() - 1, now.getUTCMonth() + 1, 1));
 
   const query = `
     query($login: String!, $from: DateTime!, $to: DateTime!) {
