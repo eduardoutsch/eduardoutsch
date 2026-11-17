@@ -1,5 +1,5 @@
 <div id="top" align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg?v=6" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/banner.svg?v=6" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### 🚀 Featured Software & Live Interactive Deployments
@@ -82,7 +82,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### ⚡ Embedded Systems, Robotics & Pure Digital Logic
@@ -111,17 +111,17 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/stack.svg?v=1" alt="Core Stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/stack.svg?v=1" alt="Core Stack" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### 📊 Live GitHub Telemetry
@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoutsch&bg_color=171310&color=E3B459&line=D4A349&point=E0824D&area=true&area_color=78552B&hide_title=true&hide_border=false&border_color=78552B" alt="Contribution Activity Graph" width="96%" />
+  <img src="./assets/growth.svg" alt="Live Contribution Trajectory" width="100%" />
 </p>
 
 ## 🇧🇷 Versão em Português (PT-BR)
@@ -148,7 +148,7 @@ Estudante de **Engenharia de Computação na PUC Minas** (Belo Horizonte, MG) co
 Foco em como as coisas realmente funcionam por baixo dos panos: decodificação binária de arquivos científicos FITS, serialização com Protocol Buffers, páginas ranuradas de 8 KB em SQL, máquinas de estado determinísticas e temporização em hardware.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### 🚀 Projetos em Destaque & Aplicações ao Vivo
@@ -199,7 +199,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
 </p>
 
 ### ⚡ Sistemas Embarcados, Robótica & Lógica Digital

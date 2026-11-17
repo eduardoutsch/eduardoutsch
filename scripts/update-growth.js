@@ -216,6 +216,6 @@ function renderSvg({ total, months }) {
 
 (async () => {
   const stats = await fetchMonthlyContributions();
-  fs.writeFileSync('growth.svg', renderSvg(stats), 'utf8');
-  console.log(`Updated growth.svg (${stats.total} annual contributions)`);
+  fs.writeFileSync('assets/growth.svg', renderSvg(stats), 'utf8');
+  console.log(`Updated assets/growth.svg (${stats.total} annual contributions)`);
 })();
