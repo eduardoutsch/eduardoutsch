@@ -94,7 +94,7 @@
       <p>4WD mobile robot powered by an <strong>ESP32 (<code>ESP-DO</code>)</strong>, <strong>L298N</strong> dual H-bridge motor driver, and front <strong>IR reflectance sensor array</strong>. Follows taped floor tracks between rooms on demand when dispatched by a user via a companion mobile app.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⏱️ Zero-Code 24-Hour Hardware Digital Clock</h4>
+      <h4>⏱️ 24-Hour Hardware Digital Clock</h4>
       <p>6-digit (<code>HH:MM:SS</code>) breadboard clock that counts and rolls over cleanly (<code>23:59:59 → 00:00:00</code>) using <strong>purely discrete TTL/CMOS counters, BCD-to-7-segment decoders, and combinational reset logic</strong>—zero microcontroller or software.</p>
     </td>
   </tr>
@@ -144,7 +144,7 @@
 
 Estudante de **Engenharia de Computação na PUC Minas** (Belo Horizonte, MG) construindo sistemas de ponta a ponta — desde **lógica digital discreta e robótica com ESP32** até **aplicativos mobile offline-first, internals de bancos de dados e orquestração assíncrona de IA**.
 
-Foco em como as coisas realmente funcionam por baixo dos panos: decodificação binária de arquivos científicos FITS, serialização com Protocol Buffers, páginas ranuradas de 8 KB em SQL, máquinas de estado determinísticas e temporização em hardware.
+Curioso sobre como as coisas funcionam por baixo dos panos: decodificação binária de arquivos científicos FITS, serialização com Protocol Buffers, páginas ranuradas de 8 KB em SQL, máquinas de estado determinísticas e temporização em hardware.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/assets/divider.svg?v=1" width="100%" />
@@ -210,7 +210,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p>Robô móvel 4WD baseado em <strong>ESP32 (<code>ESP-DO</code>)</strong>, ponte H dupla <strong>L298N</strong> e arranjo frontal de <strong>sensores infravermelhos (IR)</strong>. Navega autonomamente entre salas seguindo trilhas demarcadas conforme solicitações feitas por usuários em um aplicativo mobile.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⏱️ Relógio Digital 24h em Hardware Puro (Zero Código)</h4>
+      <h4>⏱️ Relógio Digital 24h em Hardware </h4>
       <p>Relógio de 6 dígitos (<code>HH:MM:SS</code>) em protoboard que realiza a contagem e o reset completo (<code>23:59:59 → 00:00:00</code>) utilizando <strong>exclusivamente contadores discretos TTL/CMOS, decodificadores BCD-para-7-segmentos e lógica combinacional</strong> — sem microcontrolador ou software.</p>
     </td>
   </tr>
