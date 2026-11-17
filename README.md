@@ -117,18 +117,7 @@
 ### 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0284C7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Dart-0D9488?style=for-the-badge&logo=dart&logoColor=2DD4BF&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Flutter-0284C7?style=for-the-badge&logo=flutter&logoColor=38BDF8&labelColor=171310" />
-  <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/JavaScript-D97706?style=for-the-badge&logo=javascript&logoColor=FDE047&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Python-CA8A04?style=for-the-badge&logo=python&logoColor=FACC15&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Swift-EA580C?style=for-the-badge&logo=swift&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=C4B5FD&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Supabase-059669?style=for-the-badge&logo=supabase&logoColor=34D399&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-E0824D?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/ESP32_%2F_IoT-DC2626?style=for-the-badge&logo=espressif&logoColor=FCA5A5&labelColor=171310" />
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/stack.svg?v=1" alt="Core Stack" width="100%" />
 </p>
 
 <p align="center">
