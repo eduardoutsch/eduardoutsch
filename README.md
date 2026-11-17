@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E3B459&center=true&vCenter=true&width=760&lines=Decoding+raw+NASA+SPHEREx+FITS+tables+into+infrared+sky+maps;Building+offline-first+Flutter+apps+with+Protobuf+%26+WebP;Designing+zero-code+TTL%2FCMOS+clocks+%26+ESP32+autonomous+rovers;Visualizing+8+KB+slotted+SQL+pages+%26+async+multi-LLM+brokers" alt="Animated Typing Taglines" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=E3B459&center=true&vCenter=true&width=760&lines=Decoding+raw+NASA+SPHEREx+FITS+tables+into+infrared+sky+maps;Building+offline-first+Flutter+apps+with+Protobuf+%26+WebP;Designing+zero-code+TTL%2FCMOS+clocks+%26+ESP32+autonomous+rovers;Visualizing+8+KB+slotted+SQL+pages+%26+async+multi-LLM+brokers" alt="Animated Typing Taglines" />
 </p>
 
 <p align="center">
@@ -16,19 +14,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Utsch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1914" alt="LinkedIn" />
   </a>
   <a href="https://lattes.cnpq.br/6586009344434295">
-    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-E0824D?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1F1914" alt="Currículo Lattes" />
+    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-10B981?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1F1914" alt="Currículo Lattes" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://spherex-lens.pages.dev/">
-    <img src="https://img.shields.io/badge/Live_Demo-SPHEREx_Lens-38BDF8?style=flat-square&logo=nasa&logoColor=white&labelColor=171310" alt="SPHEREx Lens" />
+    <img src="https://img.shields.io/badge/Live_Demo-SPHEREx_Lens-0EA5E9?style=flat-square&logo=nasa&logoColor=white&labelColor=171310" alt="SPHEREx Lens" />
   </a>
   <a href="https://apresentacao-sql.pages.dev/">
-    <img src="https://img.shields.io/badge/Live_Demo-SQL_Under_the_Hood-3B82F6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" alt="SQL Under the Hood" />
+    <img src="https://img.shields.io/badge/Live_Demo-SQL_Under_the_Hood-8B5CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" alt="SQL Under the Hood" />
   </a>
   <a href="https://armageddon-vox.pages.dev/">
-    <img src="https://img.shields.io/badge/Live_Demo-Armageddon_Vox-E3B459?style=flat-square&logo=cloudflarepages&logoColor=1F1914&labelColor=171310" alt="Armageddon Vox" />
+    <img src="https://img.shields.io/badge/Live_Demo-Armageddon_Vox-E0824D?style=flat-square&logo=cloudflarepages&logoColor=white&labelColor=171310" alt="Armageddon Vox" />
   </a>
 </p>
 
@@ -45,7 +43,7 @@
       <p><strong>NASA Space Apps Challenge 2026</strong></p>
       <p>Public near-infrared sky explorer built on real <strong>NASA/JPL SPHEREx DR1</strong> data from IRSA. Decodes raw scientific <strong>FITS</strong> binary tables (<code>IMAGE</code>, <code>FLAGS</code>, <code>VARIA</code>, <code>ZODI</code>, <code>EPSF</code>, <code>WAVE</code>) into multi-epoch sky imagery with frame subtraction, cosmic-ray flag filtering, and a <strong>LIFO request queue + MVVM + TDD</strong> frontend.</p>
       <p>
-        <a href="https://spherex-lens.pages.dev/"><img src="https://img.shields.io/badge/Launch_App-spherex--lens.pages.dev-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=171310" /></a>
+        <a href="https://spherex-lens.pages.dev/"><img src="https://img.shields.io/badge/Launch_App-spherex--lens.pages.dev-0EA5E9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -53,7 +51,7 @@
       <p><strong>Interactive Relational Engine Visualizer</strong></p>
       <p>Explore how database storage engines work beneath SQL queries—interactive step-throughs of query execution pipelines, <strong>LRU buffer pools</strong>, <strong>8 KB slotted pages</strong>, null bitmaps, and <strong>SIMD</strong> vectorized execution (bilingual EN / PT-BR).</p>
       <p>
-        <a href="https://apresentacao-sql.pages.dev/"><img src="https://img.shields.io/badge/Launch_Visualizer-apresentacao--sql.pages.dev-3b82f6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" /></a>
+        <a href="https://apresentacao-sql.pages.dev/"><img src="https://img.shields.io/badge/Launch_Visualizer-apresentacao--sql.pages.dev-8B5CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
   </tr>
@@ -63,7 +61,7 @@
       <p><strong>3-Tier Web Suite & Async Multi-Channel AI Broker</strong></p>
       <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>.</p>
       <p>
-        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-d4a349?style=flat-square&logo=javascript&logoColor=171310&labelColor=171310" /></a>
+        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-E0824D?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -71,7 +69,7 @@
       <p><strong>Lead Frontend Developer • Production Mobile App</strong></p>
       <p>Offline-first climbing guide built with <strong>Flutter/Dart</strong> & <strong>Supabase</strong> (published on App Store & Google Play). Replaced text/YAML payloads with <strong>Protocol Buffers</strong> and <strong>WebP</strong> compression—handling 246+ active climbers and 5,100+ offline route lookups at Festival Igarameca with zero errors.</p>
       <p>
-        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/View_Code-aresta--climb%2Faresta__app-e0824d?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
+        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/View_Code-aresta--climb%2Faresta__app-10B981?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
   </tr>
@@ -119,18 +117,18 @@
 ### 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-D4A349?style=for-the-badge&logo=c&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/C%2B%2B-D4A349?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Dart-E0824D?style=for-the-badge&logo=dart&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Flutter-E0824D?style=for-the-badge&logo=flutter&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/TypeScript-D4A349?style=for-the-badge&logo=typescript&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/JavaScript-E3B459?style=for-the-badge&logo=javascript&logoColor=171310&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Python-D4A349?style=for-the-badge&logo=python&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Swift-E0824D?style=for-the-badge&logo=swift&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/PostgreSQL-D4A349?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/Supabase-E3B459?style=for-the-badge&logo=supabase&logoColor=171310&labelColor=171310" />
+  <img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white&labelColor=171310" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0284C7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=171310" />
+  <img src="https://img.shields.io/badge/Dart-0D9488?style=for-the-badge&logo=dart&logoColor=2DD4BF&labelColor=171310" />
+  <img src="https://img.shields.io/badge/Flutter-0284C7?style=for-the-badge&logo=flutter&logoColor=38BDF8&labelColor=171310" />
+  <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=171310" />
+  <img src="https://img.shields.io/badge/JavaScript-D97706?style=for-the-badge&logo=javascript&logoColor=FDE047&labelColor=171310" />
+  <img src="https://img.shields.io/badge/Python-CA8A04?style=for-the-badge&logo=python&logoColor=FACC15&labelColor=171310" />
+  <img src="https://img.shields.io/badge/Swift-EA580C?style=for-the-badge&logo=swift&logoColor=white&labelColor=171310" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=C4B5FD&labelColor=171310" />
+  <img src="https://img.shields.io/badge/Supabase-059669?style=for-the-badge&logo=supabase&logoColor=34D399&labelColor=171310" />
   <img src="https://img.shields.io/badge/Cloudflare_Pages-E0824D?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=171310" />
-  <img src="https://img.shields.io/badge/ESP32_%2F_IoT-D4A349?style=for-the-badge&logo=espressif&logoColor=white&labelColor=171310" />
+  <img src="https://img.shields.io/badge/ESP32_%2F_IoT-DC2626?style=for-the-badge&logo=espressif&logoColor=FCA5A5&labelColor=171310" />
 </p>
 
 <p align="center">
@@ -159,7 +157,9 @@ Estudante de **Engenharia de Computação na PUC Minas** (Belo Horizonte, MG) co
 
 Foco em como as coisas realmente funcionam por baixo dos panos: decodificação binária de arquivos científicos FITS, serialização com Protocol Buffers, páginas ranuradas de 8 KB em SQL, máquinas de estado determinísticas e temporização em hardware.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/divider.svg?v=1" width="100%" />
+</p>
 
 ### 🚀 Projetos em Destaque & Aplicações ao Vivo
 
@@ -170,7 +170,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p><strong>NASA Space Apps Challenge 2026</strong></p>
       <p>Explorador interativo do céu em infravermelho próximo construído com dados reais do <strong>NASA/JPL SPHEREx DR1</strong> (arquivo IRSA). Decodifica tabelas binárias científicas <strong>FITS</strong> (<code>IMAGE</code>, <code>FLAGS</code>, <code>VARIA</code>, <code>ZODI</code>, <code>EPSF</code>, <code>WAVE</code>) em imagens multi-época com subtração de quadros, filtro de raios cósmicos e arquitetura <strong>LIFO + MVVM + TDD</strong>.</p>
       <p>
-        <a href="https://spherex-lens.pages.dev/"><img src="https://img.shields.io/badge/Acessar_App-spherex--lens.pages.dev-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=171310" /></a>
+        <a href="https://spherex-lens.pages.dev/"><img src="https://img.shields.io/badge/Acessar_App-spherex--lens.pages.dev-0EA5E9?style=flat-square&logo=cloudflare&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -178,7 +178,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p><strong>Visualizador Interativo de Internals de Bancos Relacionais</strong></p>
       <p>Explore o funcionamento interno de motores de armazenamento SQL — visualização passo a passo de pipelines de execução, <strong>buffer pools LRU</strong>, <strong>páginas ranuradas de 8 KB</strong>, bitmaps de nulos e execução vetorizada <strong>SIMD</strong> (bilíngue PT-BR / EN).</p>
       <p>
-        <a href="https://apresentacao-sql.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Visualizador-apresentacao--sql.pages.dev-3b82f6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" /></a>
+        <a href="https://apresentacao-sql.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Visualizador-apresentacao--sql.pages.dev-8B5CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
   </tr>
@@ -188,7 +188,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p><strong>Suíte Web em 3 Camadas & Broker Assíncrono de IA Multi-Canal</strong></p>
       <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>.</p>
       <p>
-        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-d4a349?style=flat-square&logo=javascript&logoColor=171310&labelColor=171310" /></a>
+        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-E0824D?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=171310" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -196,7 +196,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
       <p><strong>Lead Desenvolvedor Frontend • App Mobile em Produção</strong></p>
       <p>Guia de escalada offline-first desenvolvido em <strong>Flutter/Dart</strong> e <strong>Supabase</strong> (publicado na App Store e Google Play). Implementei serialização binária com <strong>Protocol Buffers</strong> e compressão <strong>WebP</strong> — atendendo +246 escaladores ativos e 5.192 vias consultadas offline no Festival Igarameca sem erros.</p>
       <p>
-        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-e0824d?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
+        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-10B981?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
       </p>
     </td>
   </tr>
