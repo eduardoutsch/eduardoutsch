@@ -1,6 +1,6 @@
 <svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Oiled Iron & Aged Parchment-Slate Base -->
+    <!-- Oiled Iron Base -->
     <linearGradient id="ironPlate" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#171310" />
       <stop offset="55%" stop-color="#1f1914" />
@@ -16,7 +16,7 @@
       <stop offset="100%" stop-color="#6b4a23" />
     </linearGradient>
 
-    <!-- Copper & Steam Glow -->
+    <!-- Copper Steam Pipe -->
     <linearGradient id="copperPipe" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#9a4e2a" />
       <stop offset="50%" stop-color="#e0824d" />
@@ -41,7 +41,7 @@
   <rect width="900" height="230" rx="12" fill="url(#ironPlate)" />
   <rect width="900" height="230" rx="12" fill="url(#draftGrid)" />
 
-  <!-- Double Brass Bezel & Corner Rivets -->
+  <!-- Double Brass Bezel -->
   <rect x="4" y="4" width="892" height="222" rx="9" fill="none" stroke="url(#brassTrim)" stroke-width="2.5" />
   <rect x="11" y="11" width="878" height="208" rx="6" fill="none" stroke="#6e532e" stroke-width="1" stroke-dasharray="6 4" />
 
@@ -54,21 +54,15 @@
   <!-- Copper Steam Conduit Pipes Along Top & Bottom -->
   <rect x="42" y="17" width="520" height="5" rx="2.5" fill="url(#copperPipe)" opacity="0.75" />
   <rect x="42" y="208" width="520" height="5" rx="2.5" fill="url(#copperPipe)" opacity="0.75" />
-  <!-- Pipe Collar Rings -->
   <rect x="130" y="15" width="8" height="9" rx="1.5" fill="#d4a349" />
   <rect x="370" y="15" width="8" height="9" rx="1.5" fill="#d4a349" />
   <rect x="210" y="206" width="8" height="9" rx="1.5" fill="#d4a349" />
   <rect x="450" y="206" width="8" height="9" rx="1.5" fill="#d4a349" />
 
-  <!-- ===================================================================== -->
-  <!-- RIGHT SIDE: INTERLOCKING CLOCKWORK GEAR TRAIN & ESCAPEMENT            -->
-  <!-- ===================================================================== -->
-
   <!-- Large Main Brass Gear (Center: 745, 115) -->
   <g transform="translate(745, 115)">
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite" />
-      <!-- 12 Gear Teeth -->
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" />
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(30)" />
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(60)" />
@@ -81,20 +75,18 @@
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(270)" />
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(300)" />
       <rect x="-7" y="-76" width="14" height="16" rx="2" fill="#b88435" transform="rotate(330)" />
-      <!-- Outer Rim & Spokes -->
       <circle cx="0" cy="0" r="64" fill="#171310" stroke="#d4a349" stroke-width="8" />
       <circle cx="0" cy="0" r="52" fill="none" stroke="#78552b" stroke-width="1.5" />
       <line x1="-56" y1="0" x2="56" y2="0" stroke="#d4a349" stroke-width="5" />
       <line x1="0" y1="-56" x2="0" y2="56" stroke="#d4a349" stroke-width="5" />
       <line x1="-40" y1="-40" x2="40" y2="40" stroke="#b88435" stroke-width="3.5" />
       <line x1="-40" y1="40" x2="40" y2="-40" stroke="#b88435" stroke-width="3.5" />
-      <!-- Center Hub -->
       <circle cx="0" cy="0" r="16" fill="#292018" stroke="#f3d08a" stroke-width="3" />
       <circle cx="0" cy="0" r="6" fill="#e0824d" />
     </g>
   </g>
 
-  <!-- Secondary Copper Pinion Gear (Meshed Upper-Left: 642, 62) -->
+  <!-- Secondary Copper Pinion Gear (Center: 642, 62) -->
   <g transform="translate(642, 62)">
     <g>
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite" />
@@ -114,7 +106,7 @@
     </g>
   </g>
 
-  <!-- Tertiary Escapement Wheel (Lower-Left: 638, 168) -->
+  <!-- Tertiary Escapement Wheel (Center: 638, 168) -->
   <g transform="translate(638, 168)">
     <g>
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite" />
@@ -133,7 +125,7 @@
     </g>
   </g>
 
-  <!-- Analog Pressure / Chronometer Dial (Far Right: 838, 172) -->
+  <!-- Analog Pressure / Chronometer Dial (Center: 838, 172) -->
   <g transform="translate(838, 172)">
     <circle cx="0" cy="0" r="24" fill="#120e0b" stroke="#d4a349" stroke-width="3" />
     <circle cx="0" cy="0" r="19" fill="#fdf6e3" />
@@ -141,17 +133,12 @@
     <line x1="17" y1="0" x2="13" y2="0" stroke="#1f1914" stroke-width="1.5" />
     <line x1="-17" y1="0" x2="-13" y2="0" stroke="#1f1914" stroke-width="1.5" />
     <line x1="12" y1="-12" x2="9" y2="-9" stroke="#b91c1c" stroke-width="1.5" />
-    <!-- Sweeping Gauge Needle -->
     <g>
       <animateTransform attributeName="transform" type="rotate" values="-45;55;20;65;-45" dur="7s" repeatCount="indefinite" />
       <line x1="0" y1="3" x2="0" y2="-15" stroke="#b91c1c" stroke-width="2" stroke-linecap="round" />
     </g>
     <circle cx="0" cy="0" r="3" fill="#3b2810" />
   </g>
-
-  <!-- ===================================================================== -->
-  <!-- LEFT SIDE: ENGRAVED NAMEPLATE & BRASS SPECIFICATION TAGS              -->
-  <!-- ===================================================================== -->
 
   <!-- Engraved Brass Top Plaque -->
   <rect x="44" y="34" width="320" height="24" rx="4" fill="#261e16" stroke="#b88435" stroke-width="1.2" />
