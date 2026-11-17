@@ -183,7 +183,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
     <td width="50%" valign="top">
       <h3>🧗 <a href="https://github.com/aresta-climb/aresta_app">Aresta Climb</a></h3>
       <p><strong>Lead Desenvolvedor Frontend • App Mobile em Produção</strong></p>
-      <p>Guia de escalada offline-first desenvolvido em <strong>Flutter/Dart</strong> e <strong>Supabase</strong> (publicado na App Store e Google Play). Implementei serialização binária com <strong>Protocol Buffers</strong> e compressão <strong>WebP</strong> — atendendo +246 escaladores ativos e 5.192 vias consultadas offline no Festival Igarameca sem erros.</p>
+      <p>Guia de escalada offline-first desenvolvido em <strong>Flutter/Dart</strong> e <strong>Supabase</strong> (publicado na App Store e Google Play). Implementei serialização binária com <strong>Protocol Buffers</strong> e compressão <strong>WebP</strong> — atendendo +246 escaladores ativos e 5.192 vias consultadas offline no Festival Igarameca.</p>
       <p>
         <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-10B981?style=flat-square&logo=flutter&logoColor=white&labelColor=171310" /></a>
       </p>
