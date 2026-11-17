@@ -1,5 +1,7 @@
 <div id="top" align="center">
-  <img src="./banner.svg" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
+  <div id="top" align="center">
+    <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
+  </div>
 </div>
 
 <p align="center">
