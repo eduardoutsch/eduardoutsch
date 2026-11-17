@@ -128,7 +128,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoutsch&theme=tokyonight&hide_border=false&border=78552B&background=171310&ring=D4A349&fire=E0824D&currStreakLabel=F3D08A&sideLabels=CBB99D&dates=9E6D24&stroke=6E532E" alt="GitHub Streak" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoutsch&theme=gruvbox" alt="Contribution Summary & Language Breakdown" height="175" />
 </p>
 
 <p align="center">
