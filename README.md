@@ -1,4 +1,4 @@
-<div align="center">
+<div id="top" align="center">
   <img src="./banner.svg" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
 </div>
 
@@ -9,17 +9,26 @@
 </p>
 
 <p align="center">
+  <a href="#-versão-em-português-pt-br">
+    <img src="https://img.shields.io/badge/Idioma-Ler_em_Português_(PT--BR)-10B981?style=for-the-badge" alt="Ler em Português" />
+  </a>
   <a href="https://www.linkedin.com/in/eduardo-utsch-205745350/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Utsch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lattes.cnpq.br/6586009344434295">
-    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-10B981?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes" />
+    <img src="https://img.shields.io/badge/CNPq-Currículo%20Lattes-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://spherex-lens.pages.dev/">
-    <img src="https://img.shields.io/badge/Live%20Demo-SPHEREx%20Lens-38BDF8?style=for-the-badge&logo=nasa&logoColor=white" alt="SPHEREx Lens" />
+    <img src="https://img.shields.io/badge/Live_Demo-SPHEREx_Lens-38BDF8?style=flat-square&logo=nasa&logoColor=white" alt="SPHEREx Lens" />
+  </a>
+  <a href="https://apresentacao-sql.pages.dev/">
+    <img src="https://img.shields.io/badge/Live_Demo-SQL_Under_the_Hood-3B82F6?style=flat-square&logo=typescript&logoColor=white" alt="SQL Under the Hood" />
   </a>
   <a href="https://armageddon-vox.pages.dev/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Armageddon%20Vox-F59E0B?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Armageddon Vox" />
+    <img src="https://img.shields.io/badge/Live_Demo-Armageddon_Vox-F59E0B?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Armageddon Vox" />
   </a>
 </p>
 
@@ -50,7 +59,7 @@
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>3-Tier Web Suite & Async Multi-Channel AI Broker</strong></p>
-      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>.</p>
+      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>[cite: 15].</p>
       <p>
         <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
       </p>
@@ -99,8 +108,6 @@
   </tr>
 </table>
 
-> **Tip:** Convert your two breadboard videos (`20250705_161817.mp4` and `20241205_112540.mp4`) and rover photo into `assets/clock.gif` and `assets/rover.jpg` inside `eduardoutsch/eduardoutsch`—GitHub auto-plays GIFs natively right inside your profile!
-
 ---
 
 ### 🛠️ Core Stack
@@ -129,8 +136,92 @@
 </p>
 
 ---
+---
 
-### 📫 Connect
+## 🇧🇷 Versão em Português (PT-BR)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Utsch-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-utsch/)
-[![Lattes CV](https://img.shields.io/badge/CNPq-Currículo%20Lattes-2E7D32?style=flat)](https://lattes.cnpq.br/6586009344434295)
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Language-Back_to_English_↑-38BDF8?style=flat-square" alt="Back to English" />
+  </a>
+</p>
+
+Estudante de **Engenharia de Computação na PUC Minas** (Belo Horizonte, MG) construindo sistemas de ponta a ponta — desde **lógica digital discreta e robótica com ESP32** até **aplicativos mobile offline-first, internals de bancos de dados e orquestração assíncrona de IA**.
+
+Foco em como as coisas realmente funcionam por baixo dos panos: decodificação binária de arquivos científicos FITS, serialização com Protocol Buffers, páginas ranuradas de 8 KB em SQL, máquinas de estado determinísticas e temporização em hardware.
+
+---
+
+### 🚀 Projetos em Destaque & Aplicações ao Vivo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 <a href="https://spherex-lens.pages.dev/">SPHEREx Lens</a></h3>
+      <p><strong>NASA Space Apps Challenge 2026</strong></p>
+      <p>Explorador interativo do céu em infravermelho próximo construído com dados reais do <strong>NASA/JPL SPHEREx DR1</strong> (arquivo IRSA). Decodifica tabelas binárias científicas <strong>FITS</strong> (<code>IMAGE</code>, <code>FLAGS</code>, <code>VARIA</code>, <code>ZODI</code>, <code>EPSF</code>, <code>WAVE</code>) em imagens multi-época com subtração de quadros, filtro de raios cósmicos e arquitetura <strong>LIFO + MVVM + TDD</strong>.</p>
+      <p>
+        <a href="https://spherex-lens.pages.dev/"><img src="https://img.shields.io/badge/Acessar_App-spherex--lens.pages.dev-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ <a href="https://apresentacao-sql.pages.dev/">SQL Under the Hood</a></h3>
+      <p><strong>Visualizador Interativo de Internals de Bancos Relacionais</strong></p>
+      <p>Explore o funcionamento interno de motores de armazenamento SQL — visualização passo a passo de pipelines de execução, <strong>buffer pools LRU</strong>, <strong>páginas ranuradas de 8 KB</strong>, bitmaps de nulos e execução vetorizada <strong>SIMD</strong> (bilíngue PT-BR / EN).</p>
+      <p>
+        <a href="https://apresentacao-sql.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Visualizador-apresentacao--sql.pages.dev-3b82f6?style=flat-square&logo=typescript&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
+      <p><strong>Suíte Web em 3 Camadas & Broker Assíncrono de IA Multi-Canal</strong></p>
+      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>[cite: 15].</p>
+      <p>
+        <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧗 <a href="https://github.com/aresta-climb/aresta_app">Aresta Climb</a></h3>
+      <p><strong>Lead Desenvolvedor Frontend • App Mobile em Produção</strong></p>
+      <p>Guia de escalada offline-first desenvolvido em <strong>Flutter/Dart</strong> e <strong>Supabase</strong> (publicado na App Store e Google Play). Implementei serialização binária com <strong>Protocol Buffers</strong> e compressão <strong>WebP</strong> — atendendo +246 escaladores ativos e 5.192 vias consultadas offline no Festival Igarameca sem erros.</p>
+      <p>
+        <a href="https://github.com/aresta-climb/aresta_app"><img src="https://img.shields.io/badge/Ver_Código-aresta--climb%2Faresta__app-10b981?style=flat-square&logo=flutter&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔋 <a href="https://github.com/Ddavidi/hackathon-reply-2026/tree/dev">Classificação de Baterias de Lítio em Tempo Real</a> — <em>4º Lugar Geral (Hackathon Reply Brasil 2026)</em></h3>
+      <p>Pipeline de visão computacional em tempo real com <strong>Python / YOLOv11</strong> para detecção, rastreamento integrado e classificação de baterias de lítio desenvolvido sob pressão de hackathon. <a href="https://github.com/Ddavidi/hackathon-reply-2026/tree/dev"><strong>Explorar a branch <code>dev</code> →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Sistemas Embarcados, Robótica & Lógica Digital
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Rover Autônomo Seguidor de Linha Acionado por App</h4>
+      <p>Robô móvel 4WD baseado em <strong>ESP32 (<code>ESP-DO</code>)</strong>, ponte H dupla <strong>L298N</strong> e arranjo frontal de <strong>sensores infravermelhos (IR)</strong>. Navega autonomamente entre salas seguindo trilhas demarcadas conforme solicitações feitas por usuários em um aplicativo mobile.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⏱️ Relógio Digital 24h em Hardware Puro (Zero Código)</h4>
+      <p>Relógio de 6 dígitos (<code>HH:MM:SS</code>) em protoboard que realiza a contagem e o reset completo (<code>23:59:59 → 00:00:00</code>) utilizando <strong>exclusivamente contadores discretos TTL/CMOS, decodificadores BCD-para-7-segmentos e lógica combinacional</strong> — sem microcontrolador ou software.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔌 Circuito Bare-Metal de Microcontrolador & Registrador de Clock</h4>
+      <p>Microcontrolador DIP montado diretamente em protoboard com oscilador a cristal externo de 16 MHz, capacitores de desacoplamento, circuito de reset e verificação de temporização em hardware.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Mentorix — <em>Prêmio de Destaque Interdisciplinar (PUC Minas)</em></h4>
+      <p>Plataforma premiada que integra <strong>Flutter</strong>, web e hardware para digitalizar a gestão de monitorias no campus. Liderei a migração da camada de persistência de <strong>Firebase (NoSQL)</strong> para <strong>Supabase (PostgreSQL)</strong>.</p>
+    </td>
+  </tr>
+</table>
