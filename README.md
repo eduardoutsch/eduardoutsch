@@ -127,17 +127,12 @@
 ### 📊 Live GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardoutsch&show_icons=true&include_all_commits=true&count_private=true&bg_color=171310&title_color=E3B459&text_color=CBB99D&icon_color=E0824D&border_color=78552B" alt="Eduardo Utsch GitHub Stats" height="175" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoutsch&theme=tokyonight&hide_border=false&border=78552B&background=171310&ring=D4A349&fire=E0824D&currStreakLabel=F3D08A&sideLabels=CBB99D&dates=9E6D24&stroke=6E532E" alt="GitHub Streak" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoutsch&theme=gruvbox" alt="Contribution Summary & Language Breakdown" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoutsch&layout=compact&langs_count=8&bg_color=171310&title_color=E3B459&text_color=CBB99D&border_color=78552B" alt="Top Languages" height="175" />
-  <img src="https://github-profile-trophy.vercel.app/?username=eduardoutsch&theme=gruvbox&row=1&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="GitHub Trophies" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoutsch&bg_color=171310&color=E3B459&line=D4A349&point=E0824D&area=true&area_color=78552B&hide_border=false&border_color=78552B" alt="Contribution Activity Graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoutsch&bg_color=171310&color=E3B459&line=D4A349&point=E0824D&area=true&area_color=78552B&hide_title=true&hide_border=false&border_color=78552B" alt="Contribution Activity Graph" width="96%" />
 </p>
 
 ## 🇧🇷 Versão em Português (PT-BR)
