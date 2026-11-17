@@ -1,7 +1,5 @@
 <div id="top" align="center">
-  <div id="top" align="center">
-    <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
-  </div>
+  <img src="https://raw.githubusercontent.com/eduardoutsch/eduardoutsch/main/banner.svg?v=3" alt="Eduardo Utsch — Computer Engineering Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -61,7 +59,7 @@
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>3-Tier Web Suite & Async Multi-Channel AI Broker</strong></p>
-      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>[cite: 15].</p>
+      <p>Zero-framework <strong>JavaScript</strong> tactical simulator paired with a <strong>Supabase (PostgreSQL + RLS)</strong> message queue, a local <strong>Node.js + Playwright</strong> multi-LLM daemon, procedural <strong>Web Audio API</strong> synthesis, and <strong>392 automated tests</strong>.</p>
       <p>
         <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Launch_Suite-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
       </p>
@@ -179,7 +177,7 @@ Foco em como as coisas realmente funcionam por baixo dos panos: decodificação 
     <td width="50%" valign="top">
       <h3>📡 <a href="https://armageddon-vox.pages.dev/">Armageddon Vox</a></h3>
       <p><strong>Suíte Web em 3 Camadas & Broker Assíncrono de IA Multi-Canal</strong></p>
-      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>[cite: 15].</p>
+      <p>Simulador tático em <strong>JavaScript</strong> puro (zero frameworks) integrado a filas de mensagens no <strong>Supabase (PostgreSQL + RLS)</strong>, daemon local em <strong>Node.js + Playwright</strong> para múltiplos LLMs, síntese procedural com <strong>Web Audio API</strong> e <strong>392 testes automatizados</strong>.</p>
       <p>
         <a href="https://armageddon-vox.pages.dev/"><img src="https://img.shields.io/badge/Acessar_Suíte-armageddon--vox.pages.dev-f59e0b?style=flat-square&logo=javascript&logoColor=black" /></a>
       </p>
