@@ -48,7 +48,7 @@
     <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
   </circle>
   <text x="48" y="32" font-family="Courier New, monospace" font-weight="bold" font-size="13" fill="#e3b459">LIVE CONTRIBUTION TRAJECTORY  //  ROLLING 12-MONTH TELEMETRY</text>
-  <text x="868" y="32" text-anchor="end" font-family="Courier New, monospace" font-weight="bold" font-size="12" fill="#cbb99d">1,975 ANNUAL COMMITS</text>
+  <text x="868" y="32" text-anchor="end" font-family="Courier New, monospace" font-weight="bold" font-size="12" fill="#cbb99d">2,054 ANNUAL COMMITS</text>
 
   <g stroke="#6e532e" stroke-opacity="0.35" stroke-width="1" stroke-dasharray="4 4">
     <line x1="64" y1="62.0" x2="852" y2="62.0"/>
@@ -59,18 +59,18 @@
   </g>
 
   <g font-family="Courier New, monospace" font-size="11" fill="#9e6d24" text-anchor="end">
-    <text x="54" y="66.0">900</text>
-    <text x="54" y="104.5">675</text>
-    <text x="54" y="143.0">450</text>
-    <text x="54" y="181.5">225</text>
+    <text x="54" y="66.0">1000</text>
+    <text x="54" y="104.5">750</text>
+    <text x="54" y="143.0">500</text>
+    <text x="54" y="181.5">250</text>
     <text x="54" y="220.0">0</text>
   </g>
 
-  <path d="M 68.0 213.3 C 103.5 213.3, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.1, 280.7 214.1 C 316.2 214.1, 316.2 211.7, 351.6 211.7 C 387.1 211.7, 387.1 215.3, 422.5 215.3 C 458.0 215.3, 458.0 206.2, 493.5 206.2 C 528.9 206.2, 528.9 198.4, 564.4 198.4 C 599.8 198.4, 599.8 188.5, 635.3 188.5 C 670.7 188.5, 670.7 146.5, 706.2 146.5 C 741.6 146.5, 741.6 160.0, 777.1 160.0 C 812.5 160.0, 812.5 68.3, 848.0 68.3 L 848 216 L 68 216 Z" fill="url(#areaGrad)">
+  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 70.9, 848.0 70.9 L 848 216 L 68 216 Z" fill="url(#areaGrad)">
     <animate attributeName="opacity" values="0.72;1;0.72" dur="4.5s" repeatCount="indefinite"/>
   </path>
 
-  <path d="M 68.0 213.3 C 103.5 213.3, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.1, 280.7 214.1 C 316.2 214.1, 316.2 211.7, 351.6 211.7 C 387.1 211.7, 387.1 215.3, 422.5 215.3 C 458.0 215.3, 458.0 206.2, 493.5 206.2 C 528.9 206.2, 528.9 198.4, 564.4 198.4 C 599.8 198.4, 599.8 188.5, 635.3 188.5 C 670.7 188.5, 670.7 146.5, 706.2 146.5 C 741.6 146.5, 741.6 160.0, 777.1 160.0 C 812.5 160.0, 812.5 68.3, 848.0 68.3"
+  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 70.9, 848.0 70.9"
         fill="none"
         stroke="url(#curveStroke)"
         stroke-width="3.5"
@@ -81,23 +81,23 @@
   </path>
 
   <circle cx="209.8" cy="215.7" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="280.7" cy="214.1" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="351.6" cy="211.7" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="422.5" cy="215.3" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="493.5" cy="206.2" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="564.4" cy="198.4" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="635.3" cy="188.5" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="706.2" cy="146.5" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
-  <circle cx="777.1" cy="160.0" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="280.7" cy="214.3" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="351.6" cy="212.2" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="422.5" cy="215.4" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="493.5" cy="207.2" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="564.4" cy="200.1" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="635.3" cy="191.2" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="706.2" cy="153.5" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
+  <circle cx="777.1" cy="165.6" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
 
-  <circle cx="848.0" cy="68.3" r="10" fill="none" stroke="#e0824d" stroke-width="1.5">
+  <circle cx="848.0" cy="70.9" r="10" fill="none" stroke="#e0824d" stroke-width="1.5">
     <animate attributeName="r" values="5;15;5" dur="2.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.95;0;0.95" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="848.0" cy="68.3" r="5.5" fill="#f3d08a" stroke="#e0824d" stroke-width="2"/>
+  <circle cx="848.0" cy="70.9" r="5.5" fill="#f3d08a" stroke="#e0824d" stroke-width="2"/>
 
-  <rect x="710.0" y="52.3" width="128" height="22" rx="4" fill="#261e16" stroke="#e0824d" stroke-width="1"/>
-  <text x="774.0" y="67.3" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="11" fill="#f3d08a">NOV SURGE: 863</text>
+  <rect x="710.0" y="54.9" width="128" height="22" rx="4" fill="#261e16" stroke="#e0824d" stroke-width="1"/>
+  <text x="774.0" y="69.9" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="11" fill="#f3d08a">NOV SURGE: 942</text>
 
   <g font-family="Courier New, monospace" font-size="11" fill="#cbb99d" text-anchor="middle">
     <text x="68.0" y="238">DEC 25</text>
