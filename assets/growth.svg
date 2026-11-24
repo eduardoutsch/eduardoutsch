@@ -48,7 +48,7 @@
     <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
   </circle>
   <text x="48" y="32" font-family="Courier New, monospace" font-weight="bold" font-size="13" fill="#e3b459">LIVE CONTRIBUTION TRAJECTORY  //  ROLLING 12-MONTH TELEMETRY</text>
-  <text x="868" y="32" text-anchor="end" font-family="Courier New, monospace" font-weight="bold" font-size="12" fill="#cbb99d">2,063 ANNUAL COMMITS</text>
+  <text x="868" y="32" text-anchor="end" font-family="Courier New, monospace" font-weight="bold" font-size="12" fill="#cbb99d">2,078 ANNUAL COMMITS</text>
 
   <g stroke="#6e532e" stroke-opacity="0.35" stroke-width="1" stroke-dasharray="4 4">
     <line x1="64" y1="62.0" x2="852" y2="62.0"/>
@@ -66,11 +66,11 @@
     <text x="54" y="220.0">0</text>
   </g>
 
-  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 69.5, 848.0 69.5 L 848 216 L 68 216 Z" fill="url(#areaGrad)">
+  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 67.2, 848.0 67.2 L 848 216 L 68 216 Z" fill="url(#areaGrad)">
     <animate attributeName="opacity" values="0.72;1;0.72" dur="4.5s" repeatCount="indefinite"/>
   </path>
 
-  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 69.5, 848.0 69.5"
+  <path d="M 68.0 213.5 C 103.5 213.5, 103.5 216.0, 138.9 216.0 C 174.4 216.0, 174.4 215.7, 209.8 215.7 C 245.3 215.7, 245.3 214.3, 280.7 214.3 C 316.2 214.3, 316.2 212.2, 351.6 212.2 C 387.1 212.2, 387.1 215.4, 422.5 215.4 C 458.0 215.4, 458.0 207.2, 493.5 207.2 C 528.9 207.2, 528.9 200.1, 564.4 200.1 C 599.8 200.1, 599.8 191.2, 635.3 191.2 C 670.7 191.2, 670.7 153.5, 706.2 153.5 C 741.6 153.5, 741.6 165.6, 777.1 165.6 C 812.5 165.6, 812.5 67.2, 848.0 67.2"
         fill="none"
         stroke="url(#curveStroke)"
         stroke-width="3.5"
@@ -90,14 +90,14 @@
   <circle cx="706.2" cy="153.5" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
   <circle cx="777.1" cy="165.6" r="4" fill="#d4a349" stroke="#171310" stroke-width="1.5"/>
 
-  <circle cx="848.0" cy="69.5" r="10" fill="none" stroke="#e0824d" stroke-width="1.5">
+  <circle cx="848.0" cy="67.2" r="10" fill="none" stroke="#e0824d" stroke-width="1.5">
     <animate attributeName="r" values="5;15;5" dur="2.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.95;0;0.95" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="848.0" cy="69.5" r="5.5" fill="#f3d08a" stroke="#e0824d" stroke-width="2"/>
+  <circle cx="848.0" cy="67.2" r="5.5" fill="#f3d08a" stroke="#e0824d" stroke-width="2"/>
 
-  <rect x="710.0" y="53.5" width="128" height="22" rx="4" fill="#261e16" stroke="#e0824d" stroke-width="1"/>
-  <text x="774.0" y="68.5" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="11" fill="#f3d08a">NOV SURGE: 951</text>
+  <rect x="710.0" y="51.2" width="128" height="22" rx="4" fill="#261e16" stroke="#e0824d" stroke-width="1"/>
+  <text x="774.0" y="66.2" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="11" fill="#f3d08a">NOV SURGE: 966</text>
 
   <g font-family="Courier New, monospace" font-size="11" fill="#cbb99d" text-anchor="middle">
     <text x="68.0" y="238">DEC 25</text>
